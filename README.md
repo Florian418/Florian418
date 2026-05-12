@@ -1,16 +1,26 @@
-## Hi there 👋
+# Florian
 
-<!--
-**Florian418/Florian418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dev backend PHP, en transition vers les systèmes et le DevOps.  
+En recherche d'emploi. → [euflow.fr](https://euflow.fr)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ce que je fais concrètement
+
+Infra : Proxmox · Traefik · Docker · Woodpecker CI  
+Code : PHP · Go, Python (en apprentissage)  
+Pas encore d'IaC — c'est la direction dans laquelle je vais
+
+## Projets
+
+**[pycycloneflow](https://github.com/Florian418/pycycloneflow)** — CLI Python qui génère des SBOM au format CycloneDX depuis des manifestes de dépendances (pip, go.mod, Docker, npm, dpkg...)
+
+**[gowebflow](https://github.com/Florian418/gowebflow)** — Framework web Go minimaliste, zéro dépendance externe à la stdlib
+
+
+## Parcours
+
+BTS Informatique de Gestion, option développement  
+~10 ans en auto-entreprise : maintenance, conseil, sites web vitrine  
+Formation TSSR pour structurer les bases systèmes/réseaux    
+Intérêt pour l'OSINT — collecte et structuration d'information  
